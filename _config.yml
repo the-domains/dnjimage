@@ -1,7 +1,7 @@
-name: dnjimage
+name: dnjretouch
 favicon: null
-layout_spectrum: 0.05531125911511481
-typography_spectrum: 0.04430173756554723
+layout_spectrum: 0.35592
+typography_spectrum: 0.58991
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.6768689169548452
-  lightness: 0.8813494597561657
-  saturation: 0.884455782128498
+    - '#757575'
+    - '#ffffff'
+    - '#010012'
+    - '#3f353d'
+    - '#a30914'
+  brandStrength: 0.3125
+  lightness: 0.375
+  saturation: 0.4375
   rhythmicContrast: 0.7892553498968482
 purpose: []
