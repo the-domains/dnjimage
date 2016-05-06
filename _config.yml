@@ -1,0 +1,28 @@
+name: dnjimage
+favicon: null
+layout_spectrum: 0.05531125911511481
+typography_spectrum: 0.04430173756554723
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6768689169548452
+  lightness: 0.8813494597561657
+  saturation: 0.884455782128498
+  rhythmicContrast: 0.7892553498968482
+purpose: []
